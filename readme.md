@@ -1,2 +1,2 @@
 ## Интенсив skillbox 
-# https://github.com/effko32/int-sb-py
+https://github.com/effko32/int-sb-py
